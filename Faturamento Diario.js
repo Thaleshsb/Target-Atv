@@ -18,7 +18,7 @@ Menor = box.reduce(function(a, b) {
 for(i=0;i<box.length;i++){
     media = media + box[i]
 }
-media = media/box.length
+media = media/22
 
 for(i=0;i<box.length;i++){
     if (box[i]>media){
